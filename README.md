@@ -1,9 +1,10 @@
 ## t-rex-runner
 
-the trex runner game extracted from chrome offline err page.
+Hacked version of the trex runner game extracted from chrome offline err page.
 
+> **Note:** You can do it during Chrome's offline err page too.
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+[go and enjoy! :smile: ](http://jieverson.com/t-rex-runner/)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
